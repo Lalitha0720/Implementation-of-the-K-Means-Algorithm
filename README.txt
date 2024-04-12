@@ -1,7 +1,4 @@
-Name: Lalithanjana Kollipara
-G#: G01386376
-
-CS584 Data Mining Project 4: Implementation of K-Means Algorithm
+Implementation of K-Means Algorithm
 
 
 In order to run the code on Jupyter Notebook, please make sure the below packages are installed:
